@@ -3,6 +3,7 @@ import './App.css'
 import Navbar from './components/Navbar.jsx'
 import QuizScreen from "./components/QuizScreen.jsx"
 import JoinScreen from "./components/JoinScreen.jsx"
+//import { useAuthenticator } from '@aws-amplify/ui-react';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -10,6 +11,7 @@ function App() {
   const [notes, setNotes] = useState([]);
   const [isQuizStarted, setIsQuizStarted] = useState(false);
   //const username = (user.attributes.email);
+//  const { signOut } = useAuthenticator();
 
   function getStartTime() {
     const now = new Date()  
