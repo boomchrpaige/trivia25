@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "title": "What is the main ingredient in traditional American apple pie?",
+            "options": ["Bananas", "Peaches", "Apples", "Cherries"],
+            "correctOptionIndex": 2
+        },
+        {
+            "title": "Which state is known for popularizing the cheeseburger?",
+            "options": ["Texas", "California", "New York", "Illinois"],
+            "correctOptionIndex": 1
+        },
+        {
+            "title": "What type of barbecue is Kansas City famous for?",
+            "options": ["Tomato-based Sauce", "Dry Rub", "Mustard-based Sauce", "Vinegar-based Sauce"],
+            "correctOptionIndex": 0
+        },
+        {
+            "title": "Which American dish is traditionally served at Thanksgiving?",
+            "options": ["Fried Chicken", "Lasagna", "Roast Turkey", "Tacos"],
+            "correctOptionIndex": 2
+        },
+        {
+            "title": "Which of these ingredients is essential for making s'mores?",
+            "options": ["Peanut Butter", "Marshmallows", "Apples", "Ice Cream"],
+            "correctOptionIndex": 1
+        },
+        {
+            "title": "What is the most popular topping on a classic American hot dog?",
+            "options": ["Mayonnaise", "Mustard", "Tomatoes", "Onions"],
+            "correctOptionIndex": 1
+        },
+        {
+            "title": "Which region of the United States is known for its seafood, especially lobster?",
+            "options": ["Southwest", "Midwest", "Southeast", "Northeast"],
+            "correctOptionIndex": 3
+        },
+        {
+            "title": "What is the primary ingredient in the dish 'jambalaya'?",
+            "options": ["Rice", "Pasta", "Potatoes", "Bread"],
+            "correctOptionIndex": 0
+        },
+        {
+            "title": "Which American dessert was famously created at the Waldorf-Astoria Hotel?",
+            "options": ["Cheesecake", "Bananas Foster", "Waldorf Salad", "Red Velvet Cake"],
+            "correctOptionIndex": 3
+        },
+        {
+            "title": "Which U.S. city is known for its deep-dish pizza?",
+            "options": ["Chicago", "New York", "Boston", "Los Angeles"],
+            "correctOptionIndex": 0
+        },
+        {
+            "title": "Which soup is a staple of New England cuisine?",
+            "options": ["Tomato Soup", "Clam Chowder", "Chicken Noodle Soup", "French Onion Soup"],
+            "correctOptionIndex": 1
+        },
+        {
+            "title": "What type of cuisine is the Philly cheesesteak sandwich associated with?",
+            "options": ["Southern", "Southwestern", "Northeastern", "Northwestern"],
+            "correctOptionIndex": 2
+        },
+        {
+            "title": "Which nut is commonly used in American pecan pie?",
+            "options": ["Almond", "Walnut", "Pecan", "Cashew"],
+            "correctOptionIndex": 2
+        },
+        {
+            "title": "Which fast food chain is famous for its 'Whopper' burger?",
+            "options": ["McDonald's", "Burger King", "Wendy's", "Subway"],
+            "correctOptionIndex": 1
+        },
+        {
+            "title": "What is the primary ingredient in a traditional American coleslaw?",
+            "options": ["Cabbage", "Lettuce", "Spinach", "Kale"],
+            "correctOptionIndex": 0
+        },
+        {
+            "title": "Which U.S. state is best known for the dish 'gumbo'?",
+            "options": ["Texas", "Louisiana", "Florida", "Georgia"],
+            "correctOptionIndex": 1
+        },
+        {
+            "title": "Which American dessert is often associated with the South?",
+            "options": ["Key Lime Pie", "Banana Split", "Black Forest Cake", "Pumpkin Pie"],
+            "correctOptionIndex": 0
+        },
+        {
+            "title": "What type of bread is traditionally used in a Reuben sandwich?",
+            "options": ["Sourdough", "Whole Wheat", "Rye", "Pita"],
+            "correctOptionIndex": 2
+        },
+        {
+            "title": "Which of the following is a classic ingredient in a Cobb salad?",
+            "options": ["Carrots", "Blue Cheese", "Bananas", "Mozzarella"],
+            "correctOptionIndex": 1
+        },
+        {
+            "title": "Which American state is famous for producing the most cranberries?",
+            "options": ["Florida", "California", "Wisconsin", "Texas"],
+            "correctOptionIndex": 2
+        }
+    ]
+}
